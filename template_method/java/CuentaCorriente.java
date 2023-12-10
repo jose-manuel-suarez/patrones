@@ -1,4 +1,4 @@
-package lenguaje.java.template_method;
+package template_method.java;
 
 public class CuentaCorriente extends CuentaBancaria {
 	
