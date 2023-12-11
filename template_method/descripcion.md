@@ -11,10 +11,8 @@
 	Evitar la duplicidad y repetición de código (métodos complejos) en las subclases.
 
 ### Estructura
-![Patrón Método Plantilla](./estructura.drawio.svg)
 ![Patrón Método Plantilla](https://cdn.rawgit.com/jose-manuel-suarez/patrones/desarrollo/template_method/estructura.drawio.svg)
-
-<img src="./estructura.drawio.svg">
+<img src="./estructura.drawio.svg" width="128"/>
 
 ### Aplicailidad
 	> Proporcionar un esqueleto (plantilla) para un método.
