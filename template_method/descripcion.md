@@ -12,7 +12,7 @@
 
 ### Estructura
 ![Patrón Método Plantilla](https://cdn.rawgit.com/jose-manuel-suarez/patrones/desarrollo/template_method/estructura.drawio.svg)
-<img src="./estructura.drawio.svg" width="128"/>
+<img src="https://raw.github.com/jose-manuel-suarez/patrones/desarrollo/template_method/estructura.drawio.svg?sanitize=true">
 
 ### Aplicailidad
 	> Proporcionar un esqueleto (plantilla) para un método.
