@@ -1,4 +1,4 @@
-# patrones
+# Patrones de diseño
 Implementación de patrones de diseño en diferentes lenguajes (java - python - typescript)
 
 ### Proposito del repositorio
