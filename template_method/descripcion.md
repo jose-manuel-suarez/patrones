@@ -27,7 +27,7 @@
 ### Desventajas
 	> Puede ser tedioso a la hora de utilizarlo si la clase abstracta contiene muchos métodos abstractos.
 	> Se recomienda que sea liviano, es decir, la clase abstracta invoque a pocos métodos abstractos.
-	> Otra posibilidad es utilizar métodos por defecto en la clase abstracta, se le denominan ***métodos de anclaje***.
+	> Otra posibilidad es utilizar métodos por defecto en la clase abstracta, se le denominan **métodos de anclaje**.
 
 ### Aspectos a considerar
 	> Considerar qué métodos ameritan ser abstractos o mantener una implementación por defecto en la clase abstracta.
