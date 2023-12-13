@@ -39,7 +39,7 @@
 		Puede utilizarse sintaxis especial para hacer clara referencia al método plantilla y a los de enganche.
 		Ej: método plantilla -> prefijo "plantilla", ej: plantillaExtraccion()
 			métodos que deben redefinirse (abstractos) -> prefijo "hacer", ej: hacerValidar()
-			métodos de pueden redefinirse (ganchos) -> subfijo "concreto", ej: validarConcreto()
+			métodos de pueden redefinirse (ganchos) -> subfijo "gancho", ej: validarGancho()
 	> Utilización del control de acceso:
 		Evitar que el método plantilla se sobreescriba en las subclases. Operador Java final.
 		Hacer que sean de acceso protegido los métodos gancho. Operador Java protected.
