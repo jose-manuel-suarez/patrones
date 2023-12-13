@@ -1,11 +1,18 @@
-class CuentaCorriente {
+class CuentaCorriente extends CuentaBancaria {
 
-	identificador: string;
-	saldo: number;
+	descubierto: number;
 
-	constructor(id: string, saldo: number) {
-		this.identificador = id;
-		this.saldo = saldo;
+	constructor(
+		unCbu: string, unSaldo: number, unDescubierto: number
+	) {
+		super(unCbu, unSaldo);
+		this.descubierto = unDescubierto;
+	}
+
+	protected hacerValidar(unMonto: number) {
+		return (
+			(unMonto > 0) && (unMonto <= this.saldo + this.descubierto)
+		);
 	}
 
 }

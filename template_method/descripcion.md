@@ -1,4 +1,5 @@
-## Método plantilla (Template Method)
+## Método plantilla
+[![Template Method](https://img.shields.io/badge/Template_Method-Comportamiento_de_clase-1abc9c.svg)]()
 
 ### Descripción
 	Patrón de comportamiento (de clases).
@@ -16,6 +17,7 @@
 ![Patrón Método Plantilla](./estructura.png "Template Method")()
 
 ### Aplicailidad
+	> Se detecta una estructura algorítmica subyacente homogénea entre diferentes subclases con lógica repetida entre ellas.
 	> Implementar partes de un algoritmo que no cambian, permitiendo que las subclases implmenten el comportamiento variable.
 	> Cuando se tiene comportamiento repetido en varias subclases que debería refactorizarse para evitar duplicación.
 	> Proporcionar un método esqueleto (plantilla) para la clase general.
