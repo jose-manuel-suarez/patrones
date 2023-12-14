@@ -1,13 +1,14 @@
 from abc import abstractmethod
 
-class CuentaBancaria:
+class CuentaBancaria(object):
 
-	__cbu = "no_asignado"
-	__saldo = .0
+	cbu = "no_asignado"
+	saldo = .0
 
 	def __init__(self, unCbu, unSaldo):
-		self.__cbu = unCbu
-		self.__saldo = unSaldo
+		super()
+		self.cbu = unCbu
+		self.saldo = unSaldo
 	
 	def plantillaExtraer(self, unMonto):
 		self.hacerValidar(unMonto)
@@ -19,13 +20,10 @@ class CuentaBancaria:
 		return
 
 	def extraerGancho(self, unMonto):
-		return
+		self.saldo -= unMonto
 
 	def informarGancho(self, unMonto):
-		return
+		return f"Se extrajo con éxito de la cuenta {self.cbu} ${unMonto}"
 	
 	def __str__(self):
-		return f"Cuenta bancaria -> {self.__cbu} saldo ${self.__saldo}"
-	
-mi_cuenta = CuentaBancaria("35186486", 300.44)
-print(mi_cuenta)
+		return f"Cuenta bancaria -> cbu: {self.cbu} saldo: ${self.saldo}"
