@@ -1,5 +1,5 @@
-## Método plantilla
-[![Template Method](https://img.shields.io/badge/Template_Method-Comportamiento_de_clase-1abc9c.svg)]()
+## Método plantilla (Template Method)
+[![Template Method](https://img.shields.io/badge/Template_Method-Comportamiento_de_clase-1abc9c.svg)](https://refactoring.guru/design-patterns/template-method)
 
 ### Descripción
 	Patrón de comportamiento (de clases).
@@ -47,3 +47,8 @@
 		Hacer que sean de acceso protegido los métodos gancho. Operador Java protected.
 	> Minimización de operaciones primitivas (abstractas puras)
 		Es recomendable implementar operaciones abstractas con implementación por defecto, reduciendo el número necesario de operaciones definibles en las subclases.
+
+### Fuentes relacionadas
+&emsp;[![Wikipedia](https://img.shields.io/badge/Wikipedia-1abc9c.svg?logo=gitbook&logoColor=white&labelColor=blue)](https://en.wikipedia.org/wiki/Template_method_pattern)
+&emsp;[![Refactoring Guru](https://img.shields.io/badge/Refactoring_Guru-1abc9c.svg?logo=gitbook&logoColor=white&labelColor=blue)](https://refactoring.guru/design-patterns/template-method)
+&emsp;[![Digital Ocean](https://img.shields.io/badge/Refactoring_Guru-1abc9c.svg?logo=gitbook&logoColor=white&labelColor=blue)](https://www.digitalocean.com/community/tutorials/template-method-design-pattern-in-java)

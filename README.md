@@ -26,8 +26,7 @@ Más que nada abocado a la práctica de los mismos y a guardar un registro por s
 ### Repositorio
 &emsp;
 ![repo-size](https://img.shields.io/github/repo-size/jose-manuel-suarez/patrones?label=tamaño&logo=github)&emsp;
-![GitHub License](https://img.shields.io/github/license/jose-manuel-suarez/patrones?label=licencia&logo=github)&emsp;</br>
-&emsp;
+![GitHub License](https://img.shields.io/github/license/jose-manuel-suarez/patrones?label=licencia&logo=github)&emsp;</br>&emsp;
 ![npm java](https://img.shields.io/npm/v/java?logo=npm&label=Java&labelColor=DC322F&color=DC322F)&emsp;
 ![npm python](https://img.shields.io/npm/v/python?logo=npm&label=Pythont&labelColor=ffde58&color=ffde58)&emsp;
 ![npm typescript](https://img.shields.io/npm/v/typescript?logo=npm&label=TypeScript&labelColor=007ACC&color=007ACC)</br>
@@ -37,5 +36,13 @@ Más que nada abocado a la práctica de los mismos y a guardar un registro por s
 ![User GitHub Stats](https://github-readme-stats.vercel.app/api?username=jose-manuel-suarez&show_icons=true&theme=tokyonight)&emsp;
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=jose-manuel-suarez&theme=tokyonight&layout=compact)
 
-#### Si te gustó el proyecto y te pareció de utilidad, no olvides darle una estrella e indicar tu visita ! ⭐👀
-	
+Si te gustó el proyecto y te pareció de utilidad, no olvides darle una estrella ⭐ e indicar tu visita 👀 ! 
+
+### Puedes contactarme o seguirme en mis redes sociales
+&emsp;[![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-manuel-suarez/)
+&emsp;[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/jose-manuel-suarez)
+&emsp;[![GMail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:https://mail.google.com/mail/?view=cm&source=mailto&to=jose.manuel.suarez.dev@gmail.com)</br>
+&emsp;[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/josesucho_suarez/)
+&emsp;[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/josemanuel.suarez.37)
+&emsp;[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://www.discord.com/josemanuel.suarez.87)
+&emsp;[![Discord](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCj8ps2Y80bYKxIu3VHzZ42Q)
